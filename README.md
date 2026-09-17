@@ -8,11 +8,11 @@ This tutorial outlines the process of assigning security groups to users in Entr
 <h2>Operating Systems Used </h2> - Windows 11 
 <h2>Users Created</h2> 
 <p> 
-<img width="1717" height="695" alt="image" 
-src="https://github.com/user-attachments/assets/a3cab2e0-2571-460d-ac6e-d5b884f2d1e9" /> 
+<<img width="1920" height="923" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/966de904-9390-4957-905f-ca5dafdaba0c" />
+> 
 </p> 
 <p> 
-Assigned HR-Staff-SecGroup to user Chris Walker. 
+Assigned HR-Staff-SecGroup to user mumu epaeli. 
 </p> 
 <br /> 
 <p> 
